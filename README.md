@@ -15,3 +15,17 @@ This project analyzes healthcare data to uncover insights related to patient dem
 - Power BI – Interactive dashboard creation
 - VS Code – Python development
 
+## Dataset Information
+- Dataset: Healthcare Dataset
+- Number of Records: 10,000 patient records
+- Key Features:
+-- Age
+-- Gender
+Medical Condition
+Hospital
+Billing Amount
+Insurance Provider
+Admission Type
+Test Results
+Date of Admission
+Discharge Date
