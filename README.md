@@ -21,11 +21,11 @@ This project analyzes healthcare data to uncover insights related to patient dem
 - Key Features:
   * Age
   * Gender
-Medical Condition
-Hospital
-Billing Amount
-Insurance Provider
-Admission Type
-Test Results
-Date of Admission
-Discharge Date
+  * Medical Condition
+  * Hospital
+  * Billing Amount
+  * Insurance Provider
+  * Admission Type
+  * Test Results
+  * Date of Admission
+  * Discharge Date
