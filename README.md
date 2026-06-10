@@ -19,8 +19,8 @@ This project analyzes healthcare data to uncover insights related to patient dem
 - Dataset: Healthcare Dataset
 - Number of Records: 10,000 patient records
 - Key Features:
--- Age
--- Gender
+  Age
+  Gender
 Medical Condition
 Hospital
 Billing Amount
