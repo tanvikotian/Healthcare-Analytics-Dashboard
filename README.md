@@ -53,3 +53,8 @@ This project analyzes healthcare data to uncover insights related to patient dem
 - Medical condition analysis
 - Insurance provider analysis
 - Admission
+
+## Author
+Tanvi Kishorkumar Kotian
+BCA Student
+GitHub: https://github.com/tanvikotian
