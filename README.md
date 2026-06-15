@@ -55,6 +55,6 @@ This project analyzes healthcare data to uncover insights related to patient dem
 - Admission
 
 ## Author
-Tanvi Kishorkumar Kotian
-BCA Student
-GitHub: https://github.com/tanvikotian
+- Tanvi Kishorkumar Kotian
+- BCA Student
+- GitHub: https://github.com/tanvikotian
