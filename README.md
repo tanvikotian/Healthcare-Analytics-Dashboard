@@ -46,13 +46,22 @@ This project analyzes healthcare data to uncover insights related to patient dem
 - Explored patient demographic patterns.
 - Calculated average billing amounts.
 
-## Power BI Dashboards
-- Healthcare Analytics Dashboard
-- Patient demographics analysis
-- Age group distribution
-- Medical condition analysis
-- Insurance provider analysis
-- Admission
+## 📊 Power BI Dashboard
+
+The Power BI dashboard provides an interactive overview of healthcare data.
+
+### Dashboard Components
+
+- **Average Length of Stay**
+- **Total Revenue**
+- **Total Patients**
+- **Average Billing Amount**
+- **Patient Distribution by Age Group**
+- **Top Medical Conditions**
+- **Admission Type Distribution**
+- **Revenue by Insurance Provider**
+- **Revenue by Hospital**
+- **Gender Distribution**
 
 ## Author
 - Tanvi Kishorkumar Kotian
