@@ -3,6 +3,12 @@
 ## Project Overview
 This project analyzes healthcare data to uncover insights related to patient demographics, hospital performance, medical conditions, admissions, and financial metrics. The analysis was performed using SQL, Python, and Power BI to demonstrate end-to-end data analytics skills.
 
+## 📊 Dashboard Preview
+
+### Healthcare Analytics Dashboard
+
+![Healthcare Analytics Dashboard](dashboard/Healthcare-Analytics-Dashboard.png)
+
 ## Objectives
 - Analyze patient demographics and healthcare utilization patterns.
 - Identify trends in medical conditions and admissions.
